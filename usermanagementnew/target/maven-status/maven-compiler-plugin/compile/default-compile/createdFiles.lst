@@ -1,0 +1,12 @@
+com\rafaelgonzalez\usermanagementnew\UsermanagementnewApplication.class
+com\rafaelgonzalez\usermanagementnew\config\CorsConfig$1.class
+com\rafaelgonzalez\usermanagementnew\service\UsersManagementService.class
+com\rafaelgonzalez\usermanagementnew\service\OurUserDetailsService.class
+com\rafaelgonzalez\usermanagementnew\controller\UserManagementController.class
+com\rafaelgonzalez\usermanagementnew\service\JWTUtils.class
+com\rafaelgonzalez\usermanagementnew\config\SecurityConfig.class
+com\rafaelgonzalez\usermanagementnew\repository\UsersRepo.class
+com\rafaelgonzalez\usermanagementnew\dto\ReqRes.class
+com\rafaelgonzalez\usermanagementnew\config\CorsConfig.class
+com\rafaelgonzalez\usermanagementnew\entity\OurUsers.class
+com\rafaelgonzalez\usermanagementnew\config\JWTAuthFilter.class
